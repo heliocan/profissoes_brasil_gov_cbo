@@ -17,7 +17,7 @@ Existem dois arquivos disponíveis para download:
 
 Usaremos este arquivo para extrair os dados, pdf: `CBO2002.pdf` datado de **22/06/2023**.
 
-![](D:\Git\profissoes_brasil_gov_cbo\img\cbo_pdf.png)
+![](https://github.com/heliocan/profissoes_brasil_gov_cbo/blob/main/img/cbo_pdf.png)
 
 ## Objetivo
 
